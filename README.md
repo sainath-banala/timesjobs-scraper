@@ -22,7 +22,7 @@ An intelligent web scraper that extracts job listings from TimesJobs mobile site
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/timesjobs-scraper.git
+git clone https://github.com/sainath-banala/timesjobs-scraper.git
 cd timesjobs-scraper
 ```
 
@@ -169,7 +169,7 @@ This is suitable for getting a good sample of current job postings. For comprehe
 - Python Developer
 - Automation Enthusiast
 
-Connect: [GitHub](https://github.com/YOUR_USERNAME)
+Connect: [GitHub](https://github.com/sainath-banala)
 
 ## ⚠️ Disclaimer
 
